@@ -79,3 +79,5 @@ Increased consumer awareness and accessibility to their local producers
 Continuous cultivation of the producer-consumer relationship
 A strong network of engaged producers across Europe
 Modular to adapt according to user needs
+
+end of text
